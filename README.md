@@ -17,3 +17,20 @@ PITANJA
 15. Kako se vraćaš na stariju verziju datoteke ako si pogriješio?
 16. Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?
 
+ODGOVORI
+1. Visual Studio Code je program za pisanje koda i izradu projekata.
+2. Panel s datotekama zove se Explorer.
+3. Ekstenzije se instaliraju u Extensions panelu i služe za dodatne funkcije (npr. formatiranje, jezici…).
+4. Projekt ili mapu otvaram preko File → Open Folder.
+5. U Exploreru mogu gledati, otvarati, brisati i preimenovati datoteke i mape.
+6. Datoteku brzo tražim s Ctrl + P.
+7. Dvije datoteke vidim tako da kliknem Split Editor ili povučem datoteku u stranu.
+8. Automatsko formatiranje pokrećem s Shift + Alt + F.
+9. Version control prati promjene u projektu i služi da se ništa ne izgubi.
+10. Git panel otvaram klikom na Source Control ikonu.
+11. Commit sprema promjene lokalno, push šalje na GitHub, pull povlači nove promjene.
+12. Commit poruka opisuje što sam promijenio i treba biti kratka i jasna.
+13. Promjene vidim u Git panelu ili tako da otvorim datoteku i pogledam označene dijelove.
+14. Koraci: napravim datoteku → commit → push → pojavi se na GitHubu.
+15. Na stariju verziju vraćam se preko Git history ili komandom Undo/Checkout određene verzije.
+16. Status projekta provjerim u Source Control gdje vidim koje su datoteke izmijenjene.
